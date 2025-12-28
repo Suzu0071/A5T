@@ -22,6 +22,6 @@ ___
 
 ___
 
-This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1rem;max-height:1rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1rem;max-height:1rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1rem;max-height:1rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1rem;max-height:1rem;margin-left: .2rem;">
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;">
 
-<a href="https://ko-fi.com/suzuki00071"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="" style="max-width: 3rem">
+<a href="https://ko-fi.com/suzuki00071"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" alt="" style="max-width: 2rem">
