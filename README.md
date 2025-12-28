@@ -10,6 +10,8 @@ ___
 
 <img src="./images/A5T.png">
 
+<img src="./images/whisker-a5t.gif">
+
 ___
 
 > [!WARNING]
