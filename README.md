@@ -8,18 +8,21 @@ ___
 
 + Credit goes to Sir DW Tas, who provided the original A4T and helped us with figuring out simulations.
 
-<img src="./images/A5T.png">
-
 <img src="./images/whisker-a5t.gif">
 
 ___
 
 > [!WARNING]
-> A5T is not an easy print.
+> + A5T is not an easy print.
+> + The intended carriage for A5T is Vitalii's milled StealthBurner carriage. **It will not fit on the standard carriage**.
 
 > [!NOTE]
-> Use paint on supports for the duct enterances.
+> + Use paint on supports for the duct enterances.
+> + Apart from the cowling and the logo led, everything is stock and can be taken from the [A4T repository](https://github.com/Armchair-Heavy-Industries/A4T/tree/main).
 
+___
+
+Common cowlings are found in the [STL folder](./STL/Cowlings/), if you need advanced features please see [CONFIGURATOR.md](./CONFIGURATOR.md).
 ___
 
 This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 0.5rem;max-height:0.5rem;margin-left: .2rem;">
