@@ -10,11 +10,15 @@ ___
 
 <img src="./images/whisker-a5t.gif">
 
+<img src="./images/cfd/cfd1.png" width="750px">
+
+<img src="./images/cfd/cfd2.png" width="750px">
+
 ___
 
 > [!WARNING]
 > + A5T is not an easy print.
-> + The intended carriage for A5T is Vitalii's milled StealthBurner carriage. **It will not fit on the standard carriage**.
+> + The intended carriage for A5T is Vitalii's milled StealthBurner or A4T carriage. **It will not fit on the standard carriage**.
 
 > [!NOTE]
 > + Use paint on supports for the duct enterances.
