@@ -16,10 +16,14 @@ ___
 We officially support *only* Chube Compact, but I did make some cowls for other hotends. To keep the repository clean I didn't add them here. If you have any requests for cowlings feel free to contact me through Discord (@suzu00071 or WKSuzuki server) or through email (suzuki00071@gmail.com).
 ___
 
-## Usage
+## Usage notes
 A5T takes away about 7.5mm of X travel from each side. You will also need a custom endstop. If using sensorless, you can unscrew the rail screw and use it as the endstop (check that it wont rattle out when printing).
 
 Using fridge/clicky door we haven't had any Y travel taken. We have not checked A5T with the stock door.
+
+If using Chube Compact, make sure the wires on it are facing the sides. See image below.
+
+<img src="./images/chube_facing.jpg" width=300px>
 
 > [!WARNING]
 > + A5T is not an easy print.

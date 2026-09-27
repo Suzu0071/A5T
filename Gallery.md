@@ -15,3 +15,8 @@ Whiskers' A5T with the sapphire/rainbow barf diffuser. Notice the Crossbow cutte
 <img src="./images/sapphire-a5t.jpg">
 
 ___
+Shante's A5T for revo voron. The hexagons are done through the slicer.
+
+<img src="./images/shante_a5t.JPEG">
+
+___
